@@ -2,8 +2,6 @@
 
 This is the first file in this repository.
 
-##Ipsum Below
+##Website Contents
 
-This is just some text.
-
-This is some more text.
+1. index.html
